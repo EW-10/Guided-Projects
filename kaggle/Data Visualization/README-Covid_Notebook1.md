@@ -1,5 +1,5 @@
 ## Covid_Notebook1
-Working with Covid19 data from a kaggle dataset, link below.
+Working with Covid19 data from a kaggle dataset, link below.  
 https://www.kaggle.com/datasets/digvijaysinhgohil/covid19-data-deaths-and-vaccinations  
 From kaggle, on above link to dataset:  
 “The data is collected from the Our World in Data website, which contains information about the deaths and the vaccination happening worldwide 
